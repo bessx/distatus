@@ -77,4 +77,5 @@ Required Packages
 Made by [bess](https://glitch.com/@bess) and [dayzoon](https://www.youtube.com/watch?v=SqeB2ZIf2wo).
 -------------------
 
-\ ゜o゜)ノ
+
+(•̀ᴗ•́)و ̑̑
