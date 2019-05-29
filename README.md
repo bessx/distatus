@@ -1,6 +1,8 @@
 Distatus - A Discord Streaming Status
 =================
 
+**by [bess](https://github.com/bessx/)**
+
 A small node.js app to set your Discord Streaming Status.
 
 Easily clone from glitch.com with [remix](https://glitch.com/edit/#!/remix/distatus).
@@ -11,7 +13,7 @@ Updates to your code will instantly deploy and update live after setup.
 
 To keep alive without keeping a glitch.com tab open, try [uptimerobot.com](https://uptimerobot.com/).
 
-Find out more about [distatus](https://github.com/bessx).
+Find out more about [distatus](https://github.com/bessx/distatus).
 
 <br />
 
