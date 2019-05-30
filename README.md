@@ -50,8 +50,8 @@ Setup Instructions
   
 **Change Streaming Text**
   1. Open your server.js file
-  2. Go to line 10 (server.js:10:25).
-  3. Replace `...blurple.` in `client.user.setActivity('...blurple.', {` with requested status.
+  2. Go to line 9 (server.js:9:25).
+  3. Replace `distatus` in `client.user.setActivity('distatus', {` with requested status.
   4. ???????
   5. Profit.
 
