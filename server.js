@@ -6,10 +6,9 @@ const client = new Discord.Client();
 
 client.on('ready', () => {console.log(`Logged in as ${client.user.tag}.`);
 
-
-client.user.setActivity(`...blurple.`, {
+client.user.setActivity(`distatus`, {
   type: "STREAMING",
-  url: "https://www.twitch.tv/amouranth"})
+  url: "https://www.twitch.tv/."})
       .then(presence => console.log(`Your Status has been set to "${presence.game ? presence.game : 'none'}"`))
       .catch(console.error);
 });
